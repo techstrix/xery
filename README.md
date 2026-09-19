@@ -122,4 +122,4 @@ The current interface supports:
 - revealing one password at a time
 
 Credential browsing, editing, and deletion are not currently exposed by the
-`xery-lib` API used by this CLI.
+`xery-lib` API used by this CLI. Working on it :)
